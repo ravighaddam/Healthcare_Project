@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: javaappcontainer
-        image: ravighaddam/ravi-Healthcare
+        image: ravighaddam/ravi-healthcare
         ports:
         - containerPort: 8082
 ---
